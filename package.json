@@ -1,0 +1,14 @@
+{
+  "name": "micro-consulta",
+  "version": "0.0.1",
+  "description": "Micro servicio para consultar datos del cliente",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "method-override": "latest",
+    "body-parser": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
